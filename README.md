@@ -1,6 +1,6 @@
 # License_Plate_recognition
 
-Detection of license plates in images using OpenCV, and predicting the text using Tesseract.
+Detection of license plates in images using OpenCV, and predicting the text using Tesseract, Python's wrapper of Google's  OCR Library-pytesseract.
 
 # Installation
 
