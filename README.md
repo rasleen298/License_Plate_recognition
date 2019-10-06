@@ -32,8 +32,4 @@ Detection of license plates in images using OpenCV, and predicting the text usin
 ![output3](https://user-images.githubusercontent.com/37113163/66264821-dc5e9500-e829-11e9-9834-643212a097ee.jpg)
 
 
-![car](https://user-images.githubusercontent.com/37113163/66264795-96a1cc80-e829-11e9-9f75-fde48453c177.jpg)
-
-![cartest](https://user-images.githubusercontent.com/37113163/66264797-a0c3cb00-e829-11e9-94b7-233486ff6192.jpg)
-
 The repository contains three different algorithms with different functionalities, you can clone and modify it according to your usage.
